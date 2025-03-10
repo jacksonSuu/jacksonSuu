@@ -14,7 +14,7 @@
   😀 I'm currently looking for new job opportunities.<br>
   📚 I'm learning <a href="#">AI Engineering and Distributed Systems</a>.<br>
   🎯 Goals: World travel.<br>
-  🎲 Fun fact: I love to space out and daydream.<br>
+  🎲 Fun fact: Share my learning experience at tittok.<br>
 </p>
 
 ###
